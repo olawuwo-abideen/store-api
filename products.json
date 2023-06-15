@@ -1,0 +1,132 @@
+[
+    {
+      "name": "wrist watch",
+      "price": 27,
+      "company": "shoprite",
+      "rating": 4
+    },
+    {
+      "name": "fresh fruit",
+      "price": 10,
+      "company": "spar",
+      "rating": 5
+    },
+    {
+      "name": "seasoning",
+      "price": 3,
+      "company": "spar",
+      "rating": 4.7
+    },
+    {
+      "name": "cooking oil",
+      "price": 12,
+      "company": "shoprite",
+      "rating": 4.4
+    },
+    {
+      "name": "milk",
+      "price": 4,
+      "company": "spar",
+      "rating": 4.2
+    },
+    {
+      "name": "beverages",
+      "price": 22,
+      "company": "jofes",
+      "rating": 4.55
+    },
+    {
+      "name": "detergent",
+      "price": 11,
+      "company": "jofes"
+    },
+    {
+      "name": "polish",
+      "price": 14,
+      "featured": true,
+      "company": "spar"
+    },
+    {
+      "name": "chocolate",
+      "price": 22,
+      "featured": true,
+      "company": "jofes"
+    },
+  
+    {
+      "name": "batteries",
+      "price": 100,
+      "company": "foodco"
+    },
+    {
+      "name": "phone",
+      "price": 289,
+      "featured": true,
+      "company": "jofes"
+    },
+    {
+      "name": "eggs",
+      "price": 30,
+      "company": "spar"
+    },
+    {
+      "name": "soda",
+      "price": 30,
+      "company": "jofes"
+    },
+    {
+      "name": "snacks",
+      "price": 3,
+      "company": "spar"
+    },
+    {
+      "name": "ice cream",
+      "price": 12,
+      "company": "shoprite"
+    },
+    {
+      "name": "bread",
+      "price": 15,
+      "company": "foodco"
+    },
+    {
+      "name": "drugs",
+      "price": 11,
+      "featured": true,
+      "company": "spar"
+    },
+    {
+      "name": "polish",
+      "price": 6,
+      "featured": true,
+      "company": "shoprite"
+    },
+    {
+      "name": "coffee",
+      "price": 2,
+      "company": "jofes"
+    },
+    {
+      "name": "wine",
+      "price": 15,
+      "company": "jofes"
+    },
+    {
+      "name": "butter",
+      "price": 4,
+      "company": "jofes"
+    },
+    {
+      "name": "sausage",
+      "price": 23,
+      "featured": true,
+      "company": "foodco"
+    },
+    {
+      "name": "flower",
+      "price": 12,
+      "featured": true,
+      "company": "jofes"
+    }
+  ]
+  
