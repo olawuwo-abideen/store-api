@@ -2,6 +2,9 @@
 
 A storeapi
 
+## Features
+
+- **User**: User can create, read, update, and delete product.
 
 ## Built With:
 
@@ -12,9 +15,6 @@ A storeapi
 - mongoose
 - nodemon
 - express-async-error
-
-
-
 
 ## Installation
 
@@ -47,6 +47,12 @@ npm start
 
 ```
 
+Set up the environment variables:
+
+Create the .env file and setup the MongoDB URL.
+
+The server will start running on the specified port (default: 3000) and establish a connection to the MongoDB database.
+
 This will start the app and set it up to listen for incoming connections on port 3000. Open up your browser of choice
 and go to the url
 
@@ -57,6 +63,16 @@ http://localhost:3000
 ```
 
 to start using the app.
+
+## API Endpoints
+
+The following API endpoints are available:
+
+- BaseUrl https://localhost:3000/
+
+- `POST /api/v1/products` - Register a new product
+- `GET /api/v1/products` - Read a product
+- `GET /api/v1/products/static` - Read products by params such as name, price, company name and rating
 
 ## 🤝 Contributing
 

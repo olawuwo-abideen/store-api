@@ -1,5 +1,15 @@
 const Product = require('../models/product');
 
+
+
+
+
+const createProduct = async (req, res) => {
+  const products = await Product.create(req.body)
+  res.status(201).json({ products});
+};
+
+
 const getAllProductsStatic = async (req, res) => {
   const products = await Product.find({ price: { $gt: 30 } })
     .sort('price')
@@ -68,4 +78,5 @@ const getAllProducts = async (req, res) => {
 module.exports = {
   getAllProducts,
   getAllProductsStatic,
+  createProduct,
 };
