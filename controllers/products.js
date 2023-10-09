@@ -1,9 +1,5 @@
 const Product = require('../models/product');
 
-
-
-
-
 const createProduct = async (req, res) => {
   const products = await Product.create(req.body)
   res.status(201).json({ products});
