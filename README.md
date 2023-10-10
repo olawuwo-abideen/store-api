@@ -15,6 +15,9 @@ A storeapi
 - mongoose
 - nodemon
 - express-async-error
+- cookie-parser
+- helmet
+- express-rate-limit
 
 ## Installation
 
