@@ -1,6 +1,6 @@
 # Storeapi
 
-A storeapi
+Develop a versatile online store application that empowers businesses to sell products and services online while providing a seamless shopping experience for customers.
 
 ## Features
 
