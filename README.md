@@ -81,7 +81,7 @@ The following API endpoints are available:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Olawuwo-Abideen/store-api/issues).
+Feel free to check the [issues page](https://github.com/olawuwo-abideen/store-api/issues).
 
 ## Authors
 
